@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/home/Home';
-import Login from './pages/auth/login';
+import Login from './pages/auth/Login';
 import Register from './pages/auth/Register';
 import Header from './components/header/Header';
 import Verify from './pages/auth/Verify';
