@@ -1,6 +1,4 @@
 //course ke apis fetch
-
-import e from 'cors';
 import {createContext, useContext, useEffect, useState} from 'react';
 import { server } from '../main';
 import axios from 'axios';
